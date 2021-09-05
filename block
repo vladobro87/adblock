@@ -16578,7 +16578,6 @@
 0.0.0.0 wwis-dubc1-vip99.adobe.com
 0.0.0.0 crl.versign.net
 0.0.0.0 ocsp.spo1.verisign.com
-0.0.0.0 crl.verisign.net.*
 0.0.0.0 adobe-dns-5.adobe.com
 0.0.0.0 hh-software.com
 0.0.0.0 www.hh-software.com
@@ -16846,5 +16845,5 @@
 0.0.0.0 hotjar.com
 0.0.0.0 optimizely.com
 0.0.0.0 cdn.jsdelivr.net
-0.0.0.0 www.googletagmanager.com (optional)
-0.0.0.0 cdn.web-platform.io (optional)
+0.0.0.0 www.googletagmanager.com
+0.0.0.0 cdn.web-platform.io
