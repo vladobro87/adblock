@@ -16460,8 +16460,6 @@
 0.0.0.0 54.186.132.0
 0.0.0.0 52.21.18.0
 0.0.0.0 34.236.252.0
-0.0.0.0 www.googletagmanager.com
-0.0.0.0 cdn.web-platform.io
 0.0.0.0 autodesk.ru
 0.0.0.0 analytics.google.com
 0.0.0.0 www.autodesk.ru.com
@@ -16478,7 +16476,6 @@
 0.0.0.0 fx.macphun.com
 0.0.0.0 canonicalizer.ucsuri.tcs
 0.0.0.0 api.photolemur.com
-0.0.0.0 crl.verisign.net crl.verisign.net ood.opsource.net
 0.0.0.0 wip1.aobe.com
 0.0.0.0 3dns-5.adobe.com
 0.0.0.0 wwis-dubc1-vip100.adobe.com
@@ -16807,7 +16804,6 @@
 0.0.0.0 hl2rcv.adobe.com
 0.0.0.0 ood.opsource.net
 0.0.0.0 practivate.adobe
-0.0.0.0 practivate.adobe.*
 0.0.0.0 practivate.adobe.com
 0.0.0.0 practivate.adobe.ipp
 0.0.0.0 practivate.adobe.newoa
