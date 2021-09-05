@@ -16460,23 +16460,6 @@
 0.0.0.0 54.186.132.0
 0.0.0.0 52.21.18.0
 0.0.0.0 34.236.252.0
-0.0.0.0 autodesk.com
-0.0.0.0 google-analytics.com
-0.0.0.0 virtualearth.net
-0.0.0.0 autocadws.com
-0.0.0.0 newrelic.com
-0.0.0.0 akamaiedge.net
-0.0.0.0 amazonaws.com
-0.0.0.0 s3.amazon.com
-0.0.0.0 edgekey.net
-0.0.0.0 getsatisfaction.com
-0.0.0.0 autodesk360.com
-0.0.0.0 skyscraper.autodesk.com
-0.0.0.0 ssl.google-analytics.com
-0.0.0.0 js-agent.newrelic.com
-0.0.0.0 hotjar.com
-0.0.0.0 optimizely.com
-0.0.0.0 cdn.jsdelivr.net
 0.0.0.0 www.googletagmanager.com
 0.0.0.0 cdn.web-platform.io
 0.0.0.0 autodesk.ru
@@ -16670,7 +16653,6 @@
 0.0.0.0 34.252.85.229
 0.0.0.0 54.192.98.76
 0.0.0.0 54.84.90.172
-0.0.0.0 cloudfront.net
 0.0.0.0 hbrcv.adobe.com
 0.0.0.0 hlrcv.stage.adobe.com
 0.0.0.0 ims-na1-prprod.adobelogin.com
@@ -16853,3 +16835,23 @@
 0.0.0.0 www.wip4.adobe.com
 0.0.0.0 lmlicenses.wip4.adobe.com
 0.0.0.0 lm.licenses.adobe.com
+0.0.0.0 autodesk.com
+0.0.0.0 google-analytics.com
+0.0.0.0 cloudfront.net
+0.0.0.0 virtualearth.net
+0.0.0.0 autocadws.com
+0.0.0.0 newrelic.com
+0.0.0.0 akamaiedge.net
+0.0.0.0 amazonaws.com
+0.0.0.0 s3.amazon.com
+0.0.0.0 edgekey.net
+0.0.0.0 getsatisfaction.com
+0.0.0.0 autodesk360.com
+0.0.0.0 skyscraper.autodesk.com
+0.0.0.0 ssl.google-analytics.com
+0.0.0.0 js-agent.newrelic.com
+0.0.0.0 hotjar.com
+0.0.0.0 optimizely.com
+0.0.0.0 cdn.jsdelivr.net
+0.0.0.0 www.googletagmanager.com (optional)
+0.0.0.0 cdn.web-platform.io (optional)
