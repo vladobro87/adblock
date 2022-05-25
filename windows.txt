@@ -91,7 +91,6 @@ c.msn.com
 c-0001.dc-msedge.net
 ca.telemetry.microsoft.com
 cache.datamart.windows.com
-cache.pack.google.com
 candycrushsoda.king.com
 cdn.atdmt.com
 cdn.content.prod.cms.msn.com
@@ -122,17 +121,6 @@ choice.microsoft.com.nsatc.net
 client.wns.windows.com
 clientconfig.passport.net
 client-s.gateway.messenger.live.com
-clients.google.com
-clients1.google.com
-clients2.google.com
-clients2.googleusercontent.com
-clients3.google.com
-clients4.google.com
-clients5.google.com
-clients6.google.com
-clients7.google.com
-clients8.google.com
-clients9.google.com
 clienttemplates.content.office.net
 cmc.comodo.com
 compatexchange.cloudapp.net
@@ -435,7 +423,6 @@ geo-prod.do.dsp.mp.microsoft.com
 geover-prod.do.dsp.mp.microsoft.com
 go.microsoft.com
 go.microsoft.com.edgekey.net
-google-analytics.com
 h1.msn.com
 h2.msn.com
 HK2SCH130021344.wns.windows.com
@@ -458,13 +445,6 @@ kv101-prod.do.dsp.mp.microsoft.com
 kv201-prod.do.dsp.mp.microsoft.com
 kv401-prod.do.dsp.mp.microsoft.com
 lb1.www.ms.akadns.net
-lh1.googleusercontent.com
-lh2.googleusercontent.com
-lh3.googleusercontent.com
-lh4.googleusercontent.com
-lh5.googleusercontent.com
-lh6.googleusercontent.com
-lh7.googleusercontent.com
 licensing.mp.microsoft.com
 live.rads.msn.com
 login.live.com.nsatc.net
@@ -490,7 +470,6 @@ preview.msn.com
 pti.store.microsoft.com
 query.prod.cms.rt.microsoft.com
 r5---sn-n8v7lne6.gvt1.com
-r8---sn-n8v7znee.c.pack.google.com
 rad.msn.com
 redir.metaservices.microsoft.com
 redirector.gvt1.com
@@ -548,7 +527,6 @@ test.activity.windows.com
 tile-service.weather.microsoft.com
 time.windows.com
 tk2.plt.msn.com
-tools.google.com
 tsfe.trafficshaping.dsp.mp.microsoft.com
 update.utorrent.com
 urs.smartscreen.microsoft.com
@@ -583,7 +561,6 @@ win1710.ipv6.microsoft.com
 win8.ipv6.microsoft.com
 windowsupdate.com
 wscont.apps.microsoft.com
-www.googleapis.com
 www.microsoft.com
 www.msedge.net
 www.msftconnecttest.com
