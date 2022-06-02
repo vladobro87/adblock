@@ -234,3 +234,4 @@ activate.adobe.com
 practivate.adobe.com 
 cc-api-data.adobe.io 
 ic.adobe.io
+api.filmimpact.com
