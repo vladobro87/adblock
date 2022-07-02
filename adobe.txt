@@ -222,10 +222,6 @@ www.adobe.5v.pl
 www.adobetag.com
 www.ormeadobess.com
 www.serveradobe.co.cc
-filmimpact.com
-filmimpact.net
-www.filmimpact.com
-www.filmimpact.net
 na1r.services.adobe.com 
 hlrcv.stage.adobe.com 
 lmlicenses.wip4.adobe.com 
@@ -234,4 +230,3 @@ activate.adobe.com
 practivate.adobe.com 
 cc-api-data.adobe.io 
 ic.adobe.io
-api.filmimpact.com
