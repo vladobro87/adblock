@@ -32,3 +32,9 @@ installer.maxon.net
 store.camerabits.com
 camerabits.com
 raw.redgiant.com
+camerabits.com
+vksave-music.com
+inputstreamreader.link
+packages.maxon.net
+opentor.org
+edgeassetservice.azureedge.net
