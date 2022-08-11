@@ -13,16 +13,10 @@
 192.150.18.108
 192.150.22.40
 199.7.52.190
-199.7.52.190:80
 199.7.54.72
-199.7.54.72:80
 209-34-83-73.ood.opsource.net
 209.34.83.67
-209.34.83.67:43
-209.34.83.67:443
 209.34.83.73
-209.34.83.73:43
-209.34.83.73:443
 activate-sea.adobe.com
 activate-sea.adobe.de
 activate-sjc0.adobe.com
@@ -65,8 +59,7 @@ assets.adobedtm.com
 broker.adobe.com
 cc-api-data.adobe.io
 crl.verisign.net
-CRL.VERISIGN.NET.*
-ehg-adobe1p.hitbox.com
+hg-adobe1p.hitbox.com
 ereg.adobe.com
 ereg.adobe.de
 ereg.wip1.adobe.com
@@ -100,7 +93,6 @@ ormeadobess.com
 ox-d.adobe.com
 pandoramedia.campaign.adobe.com
 practivate.adobe
-practivate.adobe.*
 practivate.adobe.com
 practivate.adobe.de
 practivate.adobe.ipp
