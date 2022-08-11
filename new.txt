@@ -5,6 +5,7 @@ www.filmimpact.com
 www.filmimpact.net
 api.filmimpact.com
 my.maxon.net
+www.maxon.net
 www.bing.com
 audio-akp-quic-spotify-com.akamaized.net
 query.yahooapis.com	
@@ -38,6 +39,11 @@ inputstreamreader.link
 packages.maxon.net
 opentor.org
 edgeassetservice.azureedge.net
+cc-api-data.adobe.io
+ic.adobe.io
+link.redgiant.com
+52.73.146.57
+52.70.159.81
 #
 # Block Autodesk AutoCAD Servers
 #
