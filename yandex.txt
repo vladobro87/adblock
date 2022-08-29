@@ -40,3 +40,5 @@ csp.yandex.net
 core-renderer-tiles.maps.yandex.net
 avatars.mds.yandex.net
 yastatic.net
+strm.yandex.net
+strm.yandex.ru
