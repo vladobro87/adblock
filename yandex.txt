@@ -36,3 +36,7 @@ www.mc.yandex.ru
 yabs.yandex.ru
 yandex.ru.sgtfnregsnet.ru
 zen-test.yandex.ru
+csp.yandex.net
+core-renderer-tiles.maps.yandex.net
+avatars.mds.yandex.net
+yastatic.net
