@@ -43,3 +43,4 @@ avatars.mds.yandex.net
 yastatic.net
 strm.yandex.net
 strm.yandex.ru
+dr.yandex.net
