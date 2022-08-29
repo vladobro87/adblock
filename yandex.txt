@@ -33,6 +33,7 @@ share.yandex.ru
 www.an.yandex.ru
 www.click.sender.yandex.ru
 www.mc.yandex.ru
+dr.yandex.net
 yabs.yandex.ru
 yandex.ru.sgtfnregsnet.ru
 zen-test.yandex.ru
