@@ -59,7 +59,6 @@ assets.adobedtm.com
 broker.adobe.com
 cc-api-data.adobe.io
 crl.verisign.net
-hg-adobe1p.hitbox.com
 ereg.adobe.com
 ereg.adobe.de
 ereg.wip1.adobe.com
@@ -69,14 +68,17 @@ ereg.wip3.adobe.de
 ereg.wip4.adobe.com
 ereg.wip.adobe.com
 fast.adobe.demdex.net
+genuine.adobe.com
 geo2.adobe.com
 hbrcv.adobe.com
+hg-adobe1p.hitbox.com
 hl2rcv.adobe.com
 hl2rcv.adobe.de
 hlrcv.stage.adobe.com
 ic.adobe.io
 ims-na1-prprod.adobelogin.com
 ims-prod06.adobelogin.comin.getclicky.com
+lcs-cops.adobe.io
 lm.licenses.adobe.com
 lmlicenses.wip1.adobe.com
 lmlicenses.wip2.adobe.com
@@ -224,4 +226,3 @@ www.wip2.adobe.com
 www.wip3.adobe.com
 www.wip4.adobe.com
 www.wip.adobe.com
-lcs-cops.adobe.io
