@@ -251,3 +251,5 @@ www.autodesk.com
 www.google-analytics.com
 www.googletagmanager.com
 x.ss2.us
+duplicatevideosearch.com
+audiocomparer.com
