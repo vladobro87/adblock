@@ -39,16 +39,9 @@ inputstreamreader.link
 packages.maxon.net
 opentor.org
 edgeassetservice.azureedge.net
-cc-api-data.adobe.io
-ic.adobe.io
 link.redgiant.com
 52.73.146.57
 52.70.159.81
-#
-# Block Autodesk AutoCAD Servers
-#
-3dns-2.adobe.com
-3dns-3.adobe.com
 918-fod-433.mktoresp.com
 94175-app1.autodesk.com
 94184-app2.autodesk.com
@@ -68,18 +61,11 @@ a.gtld-servers.net
 acamp.autodesk.com
 access.clic.autodesk.com
 accounts.autodesk.com
-activate-sea.adobe.com
-activate-sjc0.adobe.com
-activate.adobe.com
-activate.wip3.adobe.com
 adeskdi3.autodesk.com
 adeskdmzpdc.autodesk.com
 adeskgate.autodesk.com
 adesknews2.autodesk.com
 adeskout.autodesk.com
-adobe-dns-2.adobe.com
-adobe-dns-3.adobe.com
-adobe-dns.adobe.com
 adobeereg.com
 adsknateur.autodesk.com
 amernetlog.autodesk.com
@@ -127,8 +113,6 @@ discussion.autodesk.com
 download.autodesk.com
 dpm.demdex.net
 e.gtld-servers.net
-ereg.adobe.com
-ereg.wip3.adobe.com
 eur.autodesk.com
 extcidev.autodesk.com
 extciqa.autodesk.com
@@ -169,8 +153,6 @@ lbsvzw2.autodesk.com
 lbsvzw.autodesk.com
 library.autodesk.com
 liveupdate.autodesk.com
-lm.licenses.adobe.com
-lmlicenses.wip4.adobe.com
 locationservices.autodesk.com
 lsctsol04.autodesk.com
 m.gtld-servers.net
@@ -204,7 +186,6 @@ phxgciv.autodesk.com
 phxgciv_dr.autodesk.com
 planix3d.autodesk.com
 pointa.autodesk.com
-practivate.adobe.com
 register.autodesk.com
 registerallied-pr.autodesk.com
 registeronce.autodesk.com
@@ -243,13 +224,13 @@ vzwlpsrel.autodesk.com
 vzwlpstst.autodesk.com
 web.autodesk.com
 webservices.autodesk.com
-wip3.adobe.com
 wormhole.autodesk.com
-wwis-dubc1-vip60.adobe.com
 www3.autodesk.com
 www.autodesk.com
 www.google-analytics.com
 www.googletagmanager.com
 x.ss2.us
 duplicatevideosearch.com
+audiocomparer.com
+audiocomparer.com
 audiocomparer.com
