@@ -1,0 +1,530 @@
+#
+# Block Adobe Servers
+#
+# Main entries go below this comment
+192.150.18.108
+192.150.22.40
+192.150.14.69
+192.150.8.118
+192.150.8.100
+192.150.18.101
+192.168.112.207
+194.224.66.48
+199.7.52.190
+199.7.52.190:80
+209.34.83.73:43
+209.34.83.73:443
+www.adobeereg.com #75.125.24.83
+adobeereg.com #207.66.2.10
+activate.adobe.com #192.150.22.40
+practivate.adobe
+practivate.adobe.com
+practivate.adobe.*
+practivate.adobe.com #192.150.18.54
+practivate.adobe.newoa
+practivate.adobe.ntp
+practivate.adobe.ipp
+activate-sea.adobe.com #192.150.22.40
+wip.adobe.com
+wip1.adobe.com
+wip2.adobe.com
+wip3.adobe.com #192.150.8.60
+wip4.adobe.com #192.150.18.200
+lmlicenses.wip1.adobe.com
+lmlicenses.wip2.adobe.com
+lmlicenses.wip3.adobe.com
+lmlicenses.wip4.adobe.com
+activate.wip.adobe.com
+activate.wip1.adobe.com
+activate.wip2.adobe.com
+activate.wip3.adobe.com #192.150.22.40
+activate.wip4.adobe.com #192.150.22.40
+ereg.wip.adobe.com
+ereg.wip1.adobe.com
+ereg.wip2.adobe.com
+ereg.wip3.adobe.com #192.150.18.63
+ereg.wip4.adobe.com #192.150.18.103
+ereg.adobe.com #192.150.18.103
+3dns.adobe.com
+3dns-1.adobe.com
+3dns-2.adobe.com #192.150.22.22
+3dns-3.adobe.com #192.150.14.21
+3dns-4.adobe.com #192.150.18.247
+3dns-5.adobe.com #192.150.22.46
+adobe-dns.adobe.com #192.150.11.30
+adobe-dns-1.adobe.com
+adobe-dns-2.adobe.com #192.150.11.247
+adobe-dns-3.adobe.com #192.150.22.30
+adobe-dns-4.adobe.com
+wwis-dubc1-vip60.adobe.com
+activate-sjc0.adobe.com #192.150.14.69
+hl2rcv.adobe.com #192.150.14.174
+adobe.activate.com
+lm.licenses.adobe.com
+na1r.services.adobe.com
+hlrcv.stage.adobe.com
+na2m-pr.licenses.adobe.com
+adobe.tt.omtrdc.net
+adobe.activate.com #69.175.22.26
+# End of main entries present above
+# New additional entries go below this comment
+wwis-dubc1-vip30.adobe.com #192.150.8.30
+wwis-dubc1-vip31.adobe.com #192.150.8.31
+wwis-dubc1-vip32.adobe.com #192.150.8.32
+wwis-dubc1-vip33.adobe.com #192.150.8.33
+wwis-dubc1-vip34.adobe.com #192.150.8.34
+wwis-dubc1-vip35.adobe.com #192.150.8.35
+wwis-dubc1-vip36.adobe.com #192.150.8.36
+wwis-dubc1-vip37.adobe.com #192.150.8.37
+wwis-dubc1-vip38.adobe.com #192.150.8.38
+wwis-dubc1-vip39.adobe.com #192.150.8.39
+wwis-dubc1-vip40.adobe.com #192.150.8.40
+wwis-dubc1-vip41.adobe.com #192.150.8.41
+wwis-dubc1-vip42.adobe.com #192.150.8.42
+wwis-dubc1-vip43.adobe.com #192.150.8.43
+wwis-dubc1-vip44.adobe.com #192.150.8.44
+wwis-dubc1-vip45.adobe.com #192.150.8.45
+wwis-dubc1-vip46.adobe.com #192.150.8.46
+wwis-dubc1-vip47.adobe.com #192.150.8.47
+wwis-dubc1-vip48.adobe.com #192.150.8.48
+wwis-dubc1-vip49.adobe.com #192.150.8.49
+wwis-dubc1-vip50.adobe.com #192.150.8.50
+wwis-dubc1-vip51.adobe.com #192.150.8.51
+wwis-dubc1-vip52.adobe.com #192.150.8.52
+wwis-dubc1-vip53.adobe.com #192.150.8.53
+wwis-dubc1-vip54.adobe.com #192.150.8.54
+wwis-dubc1-vip55.adobe.com #192.150.8.55
+wwis-dubc1-vip56.adobe.com #192.150.8.56
+wwis-dubc1-vip57.adobe.com #192.150.8.57
+wwis-dubc1-vip58.adobe.com #192.150.8.58
+wwis-dubc1-vip59.adobe.com #192.150.8.59
+wwis-dubc1-vip60.adobe.com #192.160.8.60
+wwis-dubc1-vip61.adobe.com #192.160.8.61
+wwis-dubc1-vip62.adobe.com #192.160.8.62
+wwis-dubc1-vip63.adobe.com #192.160.8.63
+wwis-dubc1-vip64.adobe.com #192.160.8.64
+wwis-dubc1-vip65.adobe.com #192.160.8.65
+wwis-dubc1-vip66.adobe.com #192.160.8.66
+wwis-dubc1-vip67.adobe.com #192.160.8.67
+wwis-dubc1-vip68.adobe.com #192.160.8.68
+wwis-dubc1-vip69.adobe.com #192.160.8.69
+wwis-dubc1-vip70.adobe.com #192.170.8.70
+wwis-dubc1-vip71.adobe.com #192.170.8.71
+wwis-dubc1-vip72.adobe.com #192.170.8.72
+wwis-dubc1-vip73.adobe.com #192.170.8.73
+wwis-dubc1-vip74.adobe.com #192.170.8.74
+wwis-dubc1-vip75.adobe.com #192.170.8.75
+wwis-dubc1-vip76.adobe.com #192.170.8.76
+wwis-dubc1-vip77.adobe.com #192.170.8.77
+wwis-dubc1-vip78.adobe.com #192.170.8.78
+wwis-dubc1-vip79.adobe.com #192.170.8.79
+wwis-dubc1-vip80.adobe.com #192.180.8.80
+wwis-dubc1-vip81.adobe.com #192.180.8.81
+wwis-dubc1-vip82.adobe.com #192.180.8.82
+wwis-dubc1-vip83.adobe.com #192.180.8.83
+wwis-dubc1-vip84.adobe.com #192.180.8.84
+wwis-dubc1-vip85.adobe.com #192.180.8.85
+wwis-dubc1-vip86.adobe.com #192.180.8.86
+wwis-dubc1-vip87.adobe.com #192.180.8.87
+wwis-dubc1-vip88.adobe.com #192.180.8.88
+wwis-dubc1-vip89.adobe.com #192.180.8.89
+wwis-dubc1-vip90.adobe.com #192.190.8.90
+wwis-dubc1-vip91.adobe.com #192.190.8.91
+wwis-dubc1-vip92.adobe.com #192.190.8.92
+wwis-dubc1-vip93.adobe.com #192.190.8.93
+wwis-dubc1-vip94.adobe.com #192.190.8.94
+wwis-dubc1-vip95.adobe.com #192.190.8.95
+wwis-dubc1-vip96.adobe.com #192.190.8.96
+wwis-dubc1-vip97.adobe.com #192.190.8.97
+wwis-dubc1-vip98.adobe.com #192.190.8.98
+wwis-dubc1-vip99.adobe.com #192.190.8.99
+wwis-dubc1-vip100.adobe.com #192.190.8.100
+wwis-dubc1-vip101.adobe.com #192.190.8.101
+wwis-dubc1-vip102.adobe.com #192.190.8.102
+wwis-dubc1-vip103.adobe.com #192.190.8.103
+wwis-dubc1-vip104.adobe.com #192.190.8.104
+wwis-dubc1-vip105.adobe.com #192.150.8.105
+wwis-dubc1-vip106.adobe.com #192.150.8.106
+wwis-dubc1-vip107.adobe.com #192.150.8.107
+wwis-dubc1-vip108.adobe.com #192.150.8.108
+wwis-dubc1-vip109.adobe.com #192.150.8.109
+wwis-dubc1-vip110.adobe.com #192.150.8.110
+wwis-dubc1-vip111.adobe.com #192.150.8.111
+wwis-dubc1-vip112.adobe.com #192.150.8.112
+wwis-dubc1-vip113.adobe.com #192.150.8.113
+wwis-dubc1-vip114.adobe.com #192.150.8.114
+wwis-dubc1-vip115.adobe.com #192.150.8.115
+wwis-dubc1-vip116.adobe.com #192.150.8.116
+wwis-dubc1-vip117.adobe.com #192.150.8.117
+wwis-dubc1-vip118.adobe.com #192.150.8.118
+wwis-dubc1-vip119.adobe.com #192.150.8.119
+wwis-dubc1-vip120.adobe.com #192.150.8.120
+wwis-dubc1-vip121.adobe.com #192.150.8.121
+wwis-dubc1-vip122.adobe.com #192.150.8.122
+wwis-dubc1-vip123.adobe.com #192.150.8.123
+wwis-dubc1-vip124.adobe.com #192.150.8.124
+wwis-dubc1-vip125.adobe.com #192.150.8.125
+#
+# Block Corel Servers
+#
+apps.corel.com
+mc.corel.com
+iws.corel.com
+deploy.akamaitechnologies.com
+compute-1.amazonaws.com
+origin-mc.corel.com
+#
+# Block Autodesk AutoCAD Servers
+#
+autodesk.fi
+autodesk.de
+autodesk.es
+autodesk.ca
+autodesk.dk
+autodesk.pl
+ns1.autodesk.com
+ns2.autodesk.com
+ns3.autodesk.com
+a.gtld-servers.net
+b.gtld-servers.net
+c.gtld-servers.net
+d.gtld-servers.net
+e.gtld-servers.net
+f.gtld-servers.net
+g.gtld-servers.net
+h.gtld-servers.net
+i.gtld-servers.net
+j.gtld-servers.net
+k.gtld-servers.net
+l.gtld-servers.net
+ns1.autodesk.com
+m.gtld-servers.net
+adobeereg.com
+126114-app1.autodesk.com
+94175-app1.autodesk.com
+94184-app2.autodesk.com
+96579-lbal1.autodesk.com
+acamp.autodesk.com
+adeskdi3.autodesk.com
+adeskdmzpdc.autodesk.com
+adeskgate.autodesk.com
+adesknews2.autodesk.com
+adeskout.autodesk.com
+adsknateur.autodesk.com
+amernetlog.autodesk.com
+app5.autodesk.com
+aprimo-relay1.autodesk.com
+aprimo-relay2.autodesk.com
+aprimo-relay3.autodesk.com
+aprimo-relay4.autodesk.com
+autosketch.autodesk.com
+blues.autodesk.com
+cbuanprd.autodesk.com
+cbuanprhcllb.autodesk.com
+cbuanqa2lb.autodesk.com
+ci3dwsdev-svc.autodesk.com
+ci3dwsprd-svc.autodesk.com
+ci3dwsstg-svc.autodesk.com
+community.autodesk.com
+cut.autodesk.com
+cvsprd01.autodesk.com
+discussion.autodesk.com
+eur.autodesk.com
+extcidev.autodesk.com
+extciqa.autodesk.com
+extupg.autodesk.com
+ftp-users.autodesk.com
+ftp2b.autodesk.com
+gisdmzpdc.autodesk.com
+hqaribasrf04.autodesk.com
+hqmgwww01.autodesk.com
+hqmgwww04.autodesk.com
+hqmobileweb01.autodesk.com
+hqprxsrftrn.autodesk.com
+hqpsweb01.autodesk.com
+hubdev-svc.autodesk.com
+hubprd-svc.autodesk.com
+hubstg-svc.autodesk.com
+itappprd01-svc.autodesk.com
+itappprd02-svc.autodesk.com
+its.autodesk.com
+jdevextv-new.autodesk.com
+jp.autodesk.com
+jstgextv-new.autodesk.com
+jstgintv-new.autodesk.com
+lbsvzw.autodesk.com
+lbsvzw1.autodesk.com
+lbsvzw2.autodesk.com
+library.autodesk.com
+liveupdate.autodesk.com
+locationservices.autodesk.com
+lsctsol04.autodesk.com
+mail-relay.autodesk.com
+mneprdext-svc.autodesk.com
+mut.autodesk.com
+nbugma-dmz.autodesk.com
+ns1.autodesk.com
+ns2.autodesk.com
+ns3.autodesk.com
+ns4.autodesk.com
+ns5.autodesk.com
+nut.autodesk.com
+otw-new.autodesk.com
+otwdownloads.autodesk.com
+partnercenter.autodesk.com
+partnerproducts.autodesk.com
+paste.autodesk.com
+pedidrq.autodesk.com
+pediqrx.autodesk.com
+petars1.autodesk.com
+petcp11ia-2nat.autodesk.com
+petcr12ihsrp2.autodesk.com
+phxgciv.autodesk.com
+phxgciv_dr.autodesk.com
+planix3d.autodesk.com
+pointa.autodesk.com
+register.autodesk.com
+registerallied-pr.autodesk.com
+registeronce.autodesk.com
+salestraining.autodesk.com
+searchnews.autodesk.com
+shop.autodesk.com
+spamster-bulk.autodesk.com
+sswwwp.autodesk.com
+trialdownload.autodesk.com
+usa.autodesk.com
+uspetcr12ie_198.autodesk.com
+uspetcr12if.autodesk.com
+uspetcr12if_198.autodesk.com
+uspetcrs12ia_ib_vlan500_2_hsrp.autodesk.com
+uspetcrs12ia_vlan500_2.autodesk.com
+uspetcrs12ib_vlan500_2.autodesk.com
+uspetne06ia_ib_untrust_dip7.autodesk.com
+usrelay.autodesk.com
+ussclout1.autodesk.com
+vzwlpsrel.autodesk.com
+vzwlpstst.autodesk.com
+web.autodesk.com
+webservices.autodesk.com
+wormhole.autodesk.com
+www.autodesk.com
+www3.autodesk.com
+#
+# Block Graphisoft ArchiCAD Servers
+#
+wit-ams-cloudservice.cloudapp.net
+licensemanager.graphisoft.com
+licensemanager-test.graphisoft.com
+bimx-api.graphisoft.com
+licensemanager-subtest.graphisoft.com
+graphisoftid-subtest.graphisoft.com
+graphisoftid-test.graphisoft.com
+graphisoftid.graphisoft.com
+ruleservice-api-subscr-test.graphisoft.com
+ruleservice-api-test.graphisoft.com
+practivate.adobe.com
+ruleservice-api.graphisoft.com
+#
+# Block Acronis Servers
+#
+liveupdate.acronis.com
+activation.acronis.com
+web-api-tih.acronis.com
+download.acronis.com
+orders.acronis.com
+ns1.acronis.com
+ns2.acronis.com
+ns3.acronis.com
+account.acronis.com
+gateway.acronis.com
+cloud-rs-ru2.acronis.com
+cloud-fes-ru2.acronis.com
+rpc.acronis.com
+#
+# Block Facebook Servers
+#
+app.facebook.com
+api.facebook.com
+iphone.facebook.com
+*.channel40.facebook.com
+m.facebook.com
+facebook.com
+www.facebook.com
+*.channel61.facebook.com
+touch.facebook.com
+blog.facebook.com
+connect.facebook.net
+fbcdn.net
+www.fbcdn.net
+fbcdn.com
+www.fbcdn.com
+apps.facebook.com
+upload.facebook.com
+b.static.ak.fbcdn.net
+login.facebook.com
+www.login.facebook.com
+static.ak.connect.facebook.com
+www.static.ak.connect.facebook.com
+creative.ak.fbcdn.net
+www.creative.ak.fbcdn.net
+creative.ak.facebook.com
+www.creative.ak.facebook.com
+static.ak.fbcdn.net
+www.static.ak.fbcdn.net
+api-read.facebook.com
+#
+# Micro$oft Tracking Servers
+#
+a.ads1.msn.com
+a.ads2.msads.net
+a.ads2.msn.com
+a.rad.msn.com
+a-0001.a-msedge.net
+a-0002.a-msedge.net
+a-0003.a-msedge.net
+a-0004.a-msedge.net
+a-0005.a-msedge.net
+a-0006.a-msedge.net
+a-0007.a-msedge.net
+a-0008.a-msedge.net
+a-0009.a-msedge.net
+ac3.msn.com
+ad.doubleclick.net
+adnexus.net
+adnxs.com
+ads.msn.com
+ads1.msads.net
+ads1.msn.com
+aidps.atdmt.com
+aka-cdn-ns.adtech.de
+a-msedge.net
+az361816.vo.msecnd.net
+az512334.vo.msecnd.net
+b.ads1.msn.com
+b.ads2.msads.net
+b.rad.msn.com
+bingads.microsoft.com
+bs.serving-sys.com
+c.atdmt.com
+c.msn.com
+cdn.atdmt.com
+cds26.ams9.msecn.net
+choice.microsoft.com
+choice.microsoft.com.nsatc.net
+compatexchange.cloudapp.net
+corp.sts.microsoft.com
+corpext.msitadfs.glbdns2.microsoft.com
+cs1.wpc.v0cdn.net
+db3aqu.atdmt.com
+df.telemetry.microsoft.com
+diagnostics.support.microsoft.com
+ec.atdmt.com
+#fe2.update.microsoft.com.akadns.net
+feedback.microsoft-hohm.com
+feedback.search.microsoft.com
+feedback.windows.com
+flex.msn.com
+g.msn.com
+h1.msn.com
+i1.services.social.microsoft.com
+i1.services.social.microsoft.com.nsatc.net
+lb1.www.ms.akadns.net
+live.rads.msn.com
+m.adnxs.com
+m.hotmail.com
+msedge.net
+msftncsi.com
+msnbot-65-55-108-23.search.msn.com
+msntest.serving-sys.com
+oca.telemetry.microsoft.com
+oca.telemetry.microsoft.com.nsatc.net
+pre.footprintpredict.com
+preview.msn.com
+pricelist.skype.com
+rad.live.com
+rad.msn.com
+redir.metaservices.microsoft.com
+reports.wes.df.telemetry.microsoft.com
+s.gateway.messenger.live.com
+schemas.microsoft.akadns.net
+secure.adnxs.com
+secure.flashtalking.com
+services.wes.df.telemetry.microsoft.com
+settings-sandbox.data.microsoft.com
+settings-win.data.microsoft.com
+#sls.update.microsoft.com.akadns.net
+sO.2mdn.net
+sqm.df.telemetry.microsoft.com
+sqm.telemetry.microsoft.com
+sqm.telemetry.microsoft.com.nsatc.net
+ssw.live.com
+static.2mdn.net
+statsfe1.ws.microsoft.com
+statsfe2.update.microsoft.com.akadns.net
+statsfe2.ws.microsoft.com
+survey.watson.microsoft.com
+telecommand.telemetry.microsoft.com
+telecommand.telemetry.microsoft.com.nsatc.net
+telemetry.appex.bing.net
+telemetry.microsoft.com
+telemetry.urs.microsoft.com
+view.atdmt.com
+vortex.data.microsoft.com
+vortex-bn2.metron.live.com.nsatc.net
+vortex-cy2.metron.live.com.nsatc.net
+vortex-sandbox.data.microsoft.com
+vortex-win.data.microsoft.com
+watson.live.com
+watson.microsoft.com
+watson.ppe.telemetry.microsoft.com
+watson.telemetry.microsoft.com
+watson.telemetry.microsoft.com.nsatc.net
+wes.df.telemetry.microsoft.com
+#
+# Block LG Smart TV Sniffing Servers
+#
+ad.lgappstv.com
+yumenetworks.com
+smartclip.net
+smartclip.com
+llnwd.net
+smartshare.lgtvsdp.com
+ibis.lgappstv.com
+#
+# Block Raxco Servers
+#
+www.raxco.com
+raxco.com
+vso1.vso-software.fr
+activation.gocyberlink.com
+#
+# Block Nikon Servers
+#
+sams.nikonimaging.com
+9k3x1jrq3kwx.nikonimaging.com
+www.nikonimaging.com
+#
+# Block Telestream Servers
+#
+lbmail.telestream.net
+80-239-221-56.customer.teliacarrier.com
+80-239-221-99.customer.teliacarrier.com
+80-239-221-75.customer.teliacarrier.com
+dynamic.telestream.net
+a629.g.akamai.net
+store-esellerate-net.wip.digitalrivercontent.net
+esellerate-store2.digitalriver.com
+store.esellerate.net
+store2.esellerate.net
+store5.esellerate.net
+store6.esellerate.net
+esellerate.net
+digitalrivercontent.net
+digitalriver.com
+marketleverage.wip.directresponsetech.com
+directresponsetech.com
+#
+# Block Skype InChat Ads & AutoUpdate
+#
+apps.skype.com
+ui.skype.com
