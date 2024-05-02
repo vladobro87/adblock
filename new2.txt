@@ -1,66 +1,31 @@
-#
 # Block Adobe Servers
-#
 # Main entries go below this comment
-192.150.18.108
-192.150.22.40
-192.150.14.69
-192.150.8.118
-192.150.8.100
-192.150.18.101
 192.168.112.207
 194.224.66.48
-199.7.52.190
-199.7.52.190:80
-209.34.83.73:43
-209.34.83.73:443
 www.adobeereg.com #75.125.24.83
 adobeereg.com #207.66.2.10
 activate.adobe.com #192.150.22.40
-practivate.adobe
-practivate.adobe.com
-practivate.adobe.*
 practivate.adobe.com #192.150.18.54
-practivate.adobe.newoa
-practivate.adobe.ntp
-practivate.adobe.ipp
 activate-sea.adobe.com #192.150.22.40
-wip.adobe.com
-wip1.adobe.com
-wip2.adobe.com
 wip3.adobe.com #192.150.8.60
 wip4.adobe.com #192.150.18.200
 lmlicenses.wip1.adobe.com
 lmlicenses.wip2.adobe.com
 lmlicenses.wip3.adobe.com
-lmlicenses.wip4.adobe.com
-activate.wip.adobe.com
-activate.wip1.adobe.com
-activate.wip2.adobe.com
 activate.wip3.adobe.com #192.150.22.40
 activate.wip4.adobe.com #192.150.22.40
-ereg.wip.adobe.com
-ereg.wip1.adobe.com
-ereg.wip2.adobe.com
 ereg.wip3.adobe.com #192.150.18.63
 ereg.wip4.adobe.com #192.150.18.103
 ereg.adobe.com #192.150.18.103
-3dns.adobe.com
-3dns-1.adobe.com
 3dns-2.adobe.com #192.150.22.22
 3dns-3.adobe.com #192.150.14.21
 3dns-4.adobe.com #192.150.18.247
 3dns-5.adobe.com #192.150.22.46
 adobe-dns.adobe.com #192.150.11.30
-adobe-dns-1.adobe.com
 adobe-dns-2.adobe.com #192.150.11.247
 adobe-dns-3.adobe.com #192.150.22.30
-adobe-dns-4.adobe.com
-wwis-dubc1-vip60.adobe.com
 activate-sjc0.adobe.com #192.150.14.69
 hl2rcv.adobe.com #192.150.14.174
-adobe.activate.com
-lm.licenses.adobe.com
 na1r.services.adobe.com
 hlrcv.stage.adobe.com
 na2m-pr.licenses.adobe.com
@@ -72,7 +37,6 @@ adobe.activate.com #69.175.22.26
 209.34.83.67:443
 209.34.83.67:43
 209.34.83.67
-ood.opsource.net
 199.7.52.190:80
 199.7.52.190
 OCSP.SPO1.VERISIGN.COM
@@ -87,49 +51,35 @@ OCSP.SPO1.VERISIGN.COM
 209-34-83-73.ood.opsource.net
 3dns-1.adobe.com
 3dns-2.adobe.com
-3dns-2.adobe.com
-3dns-3.adobe.com
 3dns-3.adobe.com
 3dns-4.adobe.com
 3dns.adobe.com
 activate-sea.adobe.com
-activate-sea.adobe.com
 activate-sjc0.adobe.com
-activate-sjc0.adobe.com
-activate.adobe.com
 activate.adobe.com
 activate.wip.adobe.com
 activate.wip1.adobe.com
 activate.wip2.adobe.com
 activate.wip3.adobe.com
-activate.wip3.adobe.com
 activate.wip4.adobe.com
 adobe-dns-1.adobe.com
 adobe-dns-2.adobe.com
-adobe-dns-2.adobe.com
-adobe-dns-3.adobe.com
 adobe-dns-3.adobe.com
 adobe-dns-4.adobe.com
 adobe-dns.adobe.com
-adobe-dns.adobe.com
 adobe.activate.com
-adobeereg.com
 crl.verisign.net
 CRL.VERISIGN.NET.*
-ereg.adobe.com
 ereg.adobe.com
 ereg.wip.adobe.com
 ereg.wip1.adobe.com
 ereg.wip2.adobe.com
-ereg.wip3.adobe.com
 ereg.wip3.adobe.com
 ereg.wip4.adobe.com
 hl2rcv.adobe.com
 ood.opsource.net
 practivate.adobe
 practivate.adobe.*
-practivate.adobe.com
-practivate.adobe.com
 practivate.adobe.ipp
 practivate.adobe.newoa
 practivate.adobe.ntp
@@ -138,10 +88,7 @@ wip.adobe.com
 wip1.adobe.com
 wip2.adobe.com
 wip3.adobe.com
-wip3.adobe.com
 wip4.adobe.com
-wwis-dubc1-vip60.adobe.com
-wwis-dubc1-vip60.adobe.com
 wwis-dubc1-vip60.adobe.com
 www.adobeereg.com
 www.wip.adobe.com
@@ -249,27 +196,20 @@ wwis-dubc1-vip122.adobe.com #192.150.8.122
 wwis-dubc1-vip123.adobe.com #192.150.8.123
 wwis-dubc1-vip124.adobe.com #192.150.8.124
 wwis-dubc1-vip125.adobe.com #192.150.8.125
-#
 # Block Corel Servers
-#
 apps.corel.com
 mc.corel.com
 iws.corel.com
 deploy.akamaitechnologies.com
 compute-1.amazonaws.com
 origin-mc.corel.com
-#
 # Block Autodesk AutoCAD Servers
-#
 autodesk.fi
 autodesk.de
 autodesk.es
 autodesk.ca
 autodesk.dk
 autodesk.pl
-ns1.autodesk.com
-ns2.autodesk.com
-ns3.autodesk.com
 a.gtld-servers.net
 b.gtld-servers.net
 c.gtld-servers.net
@@ -282,7 +222,6 @@ i.gtld-servers.net
 j.gtld-servers.net
 k.gtld-servers.net
 l.gtld-servers.net
-ns1.autodesk.com
 m.gtld-servers.net
 adobeereg.com
 126114-app1.autodesk.com
@@ -394,9 +333,7 @@ webservices.autodesk.com
 wormhole.autodesk.com
 www.autodesk.com
 www3.autodesk.com
-#
 # Block Graphisoft ArchiCAD Servers
-#
 wit-ams-cloudservice.cloudapp.net
 licensemanager.graphisoft.com
 licensemanager-test.graphisoft.com
@@ -409,9 +346,7 @@ ruleservice-api-subscr-test.graphisoft.com
 ruleservice-api-test.graphisoft.com
 practivate.adobe.com
 ruleservice-api.graphisoft.com
-#
 # Block Acronis Servers
-#
 liveupdate.acronis.com
 activation.acronis.com
 web-api-tih.acronis.com
@@ -425,9 +360,7 @@ gateway.acronis.com
 cloud-rs-ru2.acronis.com
 cloud-fes-ru2.acronis.com
 rpc.acronis.com
-#
 # Block Facebook Servers
-#
 app.facebook.com
 api.facebook.com
 iphone.facebook.com
@@ -457,9 +390,7 @@ www.creative.ak.facebook.com
 static.ak.fbcdn.net
 www.static.ak.fbcdn.net
 api-read.facebook.com
-#
 # Micro$oft Tracking Servers
-#
 a.ads1.msn.com
 a.ads2.msads.net
 a.ads2.msn.com
@@ -565,9 +496,7 @@ watson.ppe.telemetry.microsoft.com
 watson.telemetry.microsoft.com
 watson.telemetry.microsoft.com.nsatc.net
 wes.df.telemetry.microsoft.com
-#
 # Block LG Smart TV Sniffing Servers
-#
 ad.lgappstv.com
 yumenetworks.com
 smartclip.net
@@ -575,22 +504,16 @@ smartclip.com
 llnwd.net
 smartshare.lgtvsdp.com
 ibis.lgappstv.com
-#
 # Block Raxco Servers
-#
 www.raxco.com
 raxco.com
 vso1.vso-software.fr
 activation.gocyberlink.com
-#
 # Block Nikon Servers
-#
 sams.nikonimaging.com
 9k3x1jrq3kwx.nikonimaging.com
 www.nikonimaging.com
-#
 # Block Telestream Servers
-#
 lbmail.telestream.net
 80-239-221-56.customer.teliacarrier.com
 80-239-221-99.customer.teliacarrier.com
@@ -608,7 +531,6 @@ digitalrivercontent.net
 digitalriver.com
 marketleverage.wip.directresponsetech.com
 directresponsetech.com
-#
 # Block Skype InChat Ads & AutoUpdate
 #
 apps.skype.com
