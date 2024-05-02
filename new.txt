@@ -309,3 +309,6 @@ activate-sea.adobe.com
 validation.sls.microsoft.com
 lmlicenses.wip4.adobe.com
 lm.licenses.adobe.com
+genuine-software2.autodesk.com
+ase-cdn-stg.autodesk.com
+ase.autodesk.com
