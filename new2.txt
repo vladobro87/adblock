@@ -899,7 +899,6 @@ secure.flashtalking.com
 services.wes.df.telemetry.microsoft.com
 settings-sandbox.data.microsoft.com
 settings-win.data.microsoft.com
-#sls.update.microsoft.com.akadns.net
 sO.2mdn.net
 sqm.df.telemetry.microsoft.com
 sqm.telemetry.microsoft.com
