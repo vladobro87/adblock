@@ -21,7 +21,7 @@ my.maxon.net
 packages.maxon.net
 www.maxon.net
 installer.maxon.net
-ws.symantec.com
+ws.symantec.com
 westbyte.com
 warning.rt.ru
 4kdownload.com
