@@ -42969,7 +42969,6 @@ cdn.amanad.adtdp.com
 cdn.ambientplatform.vn
 cdn.amplitude.com
 cdn.anypoint.mulesoft.com
-cdn.ap.bittorrent.com
 cdn.api.fotoable.com
 cdn.app.exitmonitor.com
 cdn.appcloudbox.net
