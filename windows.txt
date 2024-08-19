@@ -88,10 +88,6 @@ c.msn.com
 ca.telemetry.microsoft.com
 cache.datamart.windows.com
 candycrushsoda.king.com
-cdn.atdmt.com
-cdn.content.prod.cms.msn.com
-cdn.office.net
-cdn.onenote.net
 cds26.ams9.msecn.net
 cds425.lcy.llnw.net
 cds459.lcy.llnw.net
