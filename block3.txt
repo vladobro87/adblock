@@ -4161,7 +4161,6 @@ cdn.imgtty.com
 cdn.innovid.com
 cdn.inskinad.com
 cdn.jquery-uim.download
-cdn.jsdelivr.net
 cdn.komoona.com
 cdn.krxd.net
 cdn.lazymem.com

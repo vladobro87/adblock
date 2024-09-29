@@ -41,7 +41,6 @@ crl.geotrust.com
 CRL.VERISIGN.NET
 crl.ws.symantec.com
 ocsp.ws.symantec.com
-cdn.jsdelivr.net
 cdn.web-platform.io
 cloud.radar.imgsmail.ru
 cloudfront.net
