@@ -307,8 +307,6 @@ app.frame.io
 applications.frame.io
 appregistry.adobe.io
 aps-web.adobe.io
-ardownload2.adobe.com
-ardownload.adobe.com
 armdl.adobe.com
 armmf.adobe.com
 ars.oobesaas.adobe.com
