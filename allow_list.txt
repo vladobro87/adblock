@@ -56,10 +56,6 @@ graph.facebook.com
 mqtt-mini.facebook.com
 global.geo.synology.com
 
-googleapis.com
-clientsgoogle.com
-googleusercontent.com
-googlevideo.com
 fonts.gstatic.com
 alicdn.com
 sweb.ru
