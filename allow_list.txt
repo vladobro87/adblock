@@ -55,7 +55,6 @@ tapochek.net
 graph.facebook.com
 mqtt-mini.facebook.com
 global.geo.synology.com
-
 fonts.gstatic.com
 alicdn.com
 sweb.ru
@@ -92,3 +91,6 @@ yastatic.net
 tracker.dler.org
 tracker.dler.org.lan
 www.pravda.ru
+www.securitylab.ru
+strm.yandex.ru
+dr.yandex.net
