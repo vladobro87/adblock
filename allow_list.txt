@@ -170,3 +170,4 @@ webdav.yandex.ru
 disk.yandex.ru
 cloud-api.yandex.net
 www.pravda.ru
+t.me
