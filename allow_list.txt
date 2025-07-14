@@ -169,3 +169,4 @@ mail.yandex.ru
 webdav.yandex.ru
 disk.yandex.ru
 cloud-api.yandex.net
+www.pravda.ru
