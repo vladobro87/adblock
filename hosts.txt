@@ -19,8 +19,8 @@
 # localhost name resolution is handled within DNS itself.
 #	127.0.0.1       localhost
 #	::1             localhost
-127.0.0.1 win-rar.com
-127.0.0.1 rarlab.com
+
+
 127.0.0.1 www.autokroma.com
 127.0.0.1 movavi.com
 127.0.0.1 www.movavi.com
