@@ -37,7 +37,6 @@ www.mc.yandex.ru
 yabs.yandex.ru
 yandex.co.cc
 yandex.ru.sgtfnregsnet.ru
-yandex.ws
 yandexcounter.ru
 yandexcounter.su
 yastatic.net
@@ -65,12 +64,8 @@ strm-std-2.strm.yandex.net
 yastatic.net
 edge-mqtt.facebook.com
 direct.yandex.ru
-yandex.ru
-yandex.com
-yandex.net
 gb.tv.global.mi.com
 adservice.google.com
-mail.ru
 app-measurement.com
 vortex.data.microsoft.com
 api.samsungcloud.com
