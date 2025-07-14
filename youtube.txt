@@ -1,6 +1,6 @@
-*.googlevideo.com
-*.youtu.be
-*.youtube.com
+googlevideo.com
+youtu.be
+youtube.com
 accounts.google.com
 accounts.google.ru
 accounts.youtube.com
@@ -23,7 +23,6 @@ ggpht.com
 google.com
 googleapis.com
 googleusercontent.com
-googlevideo.com
 gstatic.com
 gvt1.com
 gvt2.com
@@ -46,8 +45,6 @@ upload.youtube.com
 www.google.com
 www.gstatic.com
 www.youtube.com
-youtu.be
-youtube.com
 youtubei.googleapis.com
 yt3.ggpht.com
 ytimg.com
