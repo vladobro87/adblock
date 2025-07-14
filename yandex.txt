@@ -43,7 +43,6 @@ yandexcounter.su
 yastatic.net
 zen-test.yandex.ru
 zen.yandex.ru
-#111111
 dzen.ru
 hawk.so
 cu.dzen.ru
