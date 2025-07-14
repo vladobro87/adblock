@@ -44,9 +44,6 @@ s3.amazonaws.com
 nel.cloudflare.com
 hh.ru
 appleinsider.ru
-yandex.ru
-yandex.net
-yandex.com
 a.nel.cloudflare.com
 oplata.info
 turbobit.net
@@ -78,7 +75,6 @@ azure.com
 ggpht.com
 edge.dropboxstatic.com
 push.yandex.ru
-startup.mobile.yandex.net
 eu-auth2.samsungosp.com
 ru-odc.samsungapps.com
 ureca.samsungapps.com
@@ -87,10 +83,7 @@ play.samsungcloud.com
 phncdn.com
 rt.pornhub.com
 www.pornhub.com
-yastatic.net
 tracker.dler.org
 tracker.dler.org.lan
 www.pravda.ru
 www.securitylab.ru
-strm.yandex.ru
-dr.yandex.net
