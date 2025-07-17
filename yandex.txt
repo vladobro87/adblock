@@ -2,7 +2,6 @@ adfox.yandex.ru
 adsdk.yandex.ru
 advertising.yandex.ru
 an.yandex.ru
-avatars.mds.yandex.net
 awaps.yandex.ru
 awsync.yandex.ru
 az.yandex.ru
