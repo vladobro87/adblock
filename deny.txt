@@ -36,3 +36,4 @@ cackle.me
 yandex.ru
 yandex.net
 yandex.com
+yastatic.net
