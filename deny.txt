@@ -22,8 +22,6 @@ ya.cc
 strm-std-2.strm.yandex.net
 edge-mqtt.facebook.com
 direct.yandex.ru
-yandex.com
-yandex.net
 gb.tv.global.mi.com
 adservice.google.com
 mail.ru
@@ -36,3 +34,5 @@ portal.mail.ru
 ok.ru
 cackle.me
 yandex.ru
+yandex.net
+yandex.com
