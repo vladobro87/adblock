@@ -548,7 +548,6 @@ platform-cs.adobe.io
 polka.typekit.com
 polka.typekit.net
 practivate.adobe
-practivate.adobe.*
 practivate.adobe.com
 practivate.adobe.de
 practivate.adobe.ipp
