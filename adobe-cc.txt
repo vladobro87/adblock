@@ -297,7 +297,6 @@ adbemdigitalmediarebootprod2.112.2o7.net
 cdn.tt.omtrdc.net
 api.demandbase.com
 ftcdn.net
-behance.net
 astockcdn.net
 cc-api-assets.adobe.io
 api.behance.net
