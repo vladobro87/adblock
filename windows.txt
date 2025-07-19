@@ -398,7 +398,6 @@ encrypted-tbn2.gstatic.com
 encrypted-tbn3.gstatic.com
 encrypted-tbn4.gstatic.com
 encrypted-tbn5.gstatic.com
-encrypted-tbn0.gstatic.com
 eu.vortex.data.microsoft.com
 f-log-extension.grammarly.io
 fe2.update.microsoft.com
