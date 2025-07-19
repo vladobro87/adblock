@@ -1160,6 +1160,8 @@ home.camerabits.com
 store.camerabits.com
 vksave-music.com
 # Google
+eligibility-panelresearch.googlevideo.com
+manifest.googlevideo.com
 www.google-analytics.com
 www.googletagmanager.com
 safebrowsing.google.com
