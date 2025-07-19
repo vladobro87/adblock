@@ -802,12 +802,6 @@ phonos-recordings-production.s3.amazonaws.com
 cdn.cookielaw.org
 kinesisvideo.amazonaws.com
 access.imageclub.com
-play.google.com
-www.flickr.com
-chrome.google.com
-soundcloud.com
-www.freedb.org
-developer.apple.com
 subversion.tigris.org
 www.ietf.org
 framework.zend.com
@@ -815,14 +809,9 @@ windowsupdate.com
 geotrust.com
 globalsign.com
 godaddy.com
-twitter.com
 www.microsoft.com
 ftp.yourdomain.com
-www.amazon.com
 www.mp3licensing.com
-itunes.apple.com
-www.apple.com
-www.python.org
 jquerymobile.com
 www.color.org
 omniroot.com
@@ -830,7 +819,6 @@ symantec.com
 symcb.com
 symcd.com
 www.rulesforuse.org
-maps.google.com
 www.eclipse.org
 www.shutterfly.com
 msdn.microsoft.com
