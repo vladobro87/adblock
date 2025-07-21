@@ -345,7 +345,7 @@ device.auth.xboxlive.com
 disc101-prod.do.dsp.mp.microsoft.com
 disc201-prod.do.dsp.mp.microsoft.com
 disc401-prod.do.dsp.mp.microsoft.com
-displaycatalog.mp.microsoft.com
+#displaycatalog.mp.microsoft.com
 dl.delivery.mp.microsoft.com
 dmd.metaservices.microsoft.com
 dns.msftncsi.com
@@ -700,7 +700,7 @@ statics.teams.cdn.live.net
 statics.teams.cdn.office.net
 stor3.msedge.net
 storage.live.com
-store-images.microsoft.com
+#store-images.microsoft.com
 storesdk.dsx.mp.microsoft.com
 studytree2.blob.core.windows.net
 substrate.office.com
