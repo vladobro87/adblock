@@ -34,8 +34,6 @@ portal.mail.ru
 ok.ru
 cackle.me
 yandex.ru
-yandex.net
-yandex.com
 yastatic.net
 static.avito.ru
 avito.st
