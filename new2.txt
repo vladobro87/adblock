@@ -370,7 +370,7 @@ feedback.microsoft-hohm.com
 feedback.search.microsoft.com
 feedback.windows.com
 fpdownload.macromedia.com
-fs.microsoft.com
+№fs.microsoft.com
 genuine.microsoft.com
 geo-prod.do.dsp.mp.microsoft.com
 geover-prod.do.dsp.mp.microsoft.com
