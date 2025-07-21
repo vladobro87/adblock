@@ -95,7 +95,7 @@ cp101-prod.do.dsp.mp.microsoft.com
 cp201-prod.do.dsp.mp.microsoft.com
 cp401-prod.do.dsp.mp.microsoft.com
 cs.dds.microsoft.com
-ctldl.windowsupdate.com
+#ctldl.windowsupdate.com
 db3wns2011111.wns.windows.com
 db5.wns.windows.com
 db5sch101100122.wns.windows.com
@@ -440,7 +440,7 @@ statsfe1.ws.microsoft.com
 statsfe2.update.microsoft.com
 statsfe2.update.microsoft.com.akadns.net
 statsfe2.ws.microsoft.com
-store-images.s-microsoft.com
+#store-images.s-microsoft.com
 storecatalogrevocation.storequality.microsoft.com
 #storeedgefd.dsx.mp.microsoft.com
 support.microsoft.com
