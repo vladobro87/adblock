@@ -75,7 +75,7 @@
 104.76.27.18
 104.76.40.239
 104.76.45.186
-1047..p0rt2.com
+1047.p0rt2.com
 104fe3b0831e.com
 105mln.ru
 1066d4aa6b9f7.com
@@ -93,7 +93,7 @@
 1168.ic-live.com
 1-17.ru
 11954.filter.bullhornsearch.com
-11968..p0rt2.com
+11968.p0rt2.com
 11torrent.ru
 12.video-ak.cdn.spotify.com
 120.mbn.com.ua
@@ -205,7 +205,7 @@
 18.58.107.184.in-addr.arpa
 18.video-ak.cdn.spotify.com
 184.107.58.18
-1866..p0rt2.com
+1866.p0rt2.com
 189.analytics.21cn.com
 18b6fb578b9.com
 18yearoldbabe.com
@@ -361,7 +361,7 @@
 204.79.197.210
 204.79.197.211
 204.79.197.213
-205..p0rt2.com
+205.p0rt2.com
 20552817p.rfihub.com
 207.46.114.58
 207.46.114.61
@@ -376,7 +376,7 @@
 214d1434a241d.com
 21ed64eb0f1f.com
 22.video-ak.cdn.spotify.com
-22022..p0rt2.com
+22022.p0rt2.com
 223e88e12dc114531937.date
 229s31t1.ru
 23.103.189.157
@@ -389,7 +389,7 @@
 238662ae03bb.com
 23rsdsfdsf.com
 24.video-ak.cdn.spotify.com
-24419..p0rt2.com
+24419.p0rt2.com
 247nortonsupportpc.com
 24fakty-sniadaniowe.pl
 24fun.count.brat-online.ro
@@ -414,7 +414,7 @@
 26bff51fff.com
 26c84ccad3d2.com
 27.video-ak.cdn.spotify.com
-27242..p0rt2.com
+27242.p0rt2.com
 27meg.com
 28.video-ak.cdn.spotify.com
 2819.btrll.com
@@ -592,7 +592,7 @@
 4036.api.swrve.com
 404.prettyincash.com
 41.video-ak.cdn.spotify.com
-41363..p0rt2.com
+41363.p0rt2.com
 4155.api.swrve.com
 4155.content.swrve.com
 4168233901.peerclicktrk.com
@@ -630,7 +630,7 @@
 4623.ru
 4627.api.swrve.com
 4627.content.swrve.com
-46498..p0rt2.com
+46498.p0rt2.com
 4676.api.swrve.com
 4676.content.swrve.com
 4679.api.swrve.com
@@ -643,9 +643,9 @@
 489ea64f39.com
 48faeb9ff2ef3ee28517.date
 49.video-ak.cdn.spotify.com
-49234..p0rt2.com
+49234.p0rt2.com
 4953227.fls.doubleclick.net
-49595..p0rt2.com
+49595.p0rt2.com
 49anm.bemobtrk.com
 4a.video-ak.cdn.spotify.com
 4a5388e4cd31336b89c2.date
@@ -792,7 +792,7 @@
 62.146.210.10
 62.146.210.6
 6287a14fb6205e46df99.date
-63138..p0rt2.com
+63138.p0rt2.com
 6387d781a4cf.com
 638f97c8f2d.com
 63fc818000.com
@@ -828,7 +828,7 @@
 6519508.fls.doubleclick.net
 6559.eu-api.swrve.com
 6559.eu-content.swrve.com
-65916..p0rt2.com
+65916.p0rt2.com
 66.119.144.157
 66.119.147.131
 665d869f093dc.com
@@ -871,12 +871,12 @@
 6zi.notifications.website
 6zzua.gdn
 7.rotator.wigetmedia.com
-70187..p0rt2.com
+70187.p0rt2.com
 7029b724c8273.com
 702d0e79ce717.com
 70417a828db359b26f1b.date
 71.video-ak.cdn.spotify.com
-71474..p0rt2.com
+71474.p0rt2.com
 7147d64a2ab4.com
 71d8dad67ed2531d980d.date
 71e748fd324cfd24e9be.date
@@ -888,7 +888,7 @@
 73fc6a3ffc.com
 74.125.110.52
 74.video-ak.cdn.spotify.com
-74204..p0rt2.com
+74204.p0rt2.com
 74782c1f5fb74af5.com
 749d9039c2d4f6323714.date
 74b21e9fbd36.com
@@ -907,7 +907,7 @@
 787948552fae9.com
 79.video-ak.cdn.spotify.com
 7949453bcd85.com
-79600..p0rt2.com
+79600.p0rt2.com
 798c7003dbb.com
 7a.video-ak.cdn.spotify.com
 7a3d62b42e1.com
@@ -932,7 +932,7 @@
 80f99d.torrentinstaller.com
 81.video-ak.cdn.spotify.com
 8185.237.asklots.com
-81882..p0rt2.com
+81882.p0rt2.com
 82.video-ak.cdn.spotify.com
 8200.6639.asklots.com
 821d5dd22d.com
@@ -988,7 +988,7 @@
 91e2.com
 92.video-ak.cdn.spotify.com
 925.vip.jx828.net
-92654..p0rt2.com
+92654.p0rt2.com
 92c9b72955e2.com
 93.184.221.200
 93.video-ak.cdn.spotify.com
@@ -1000,7 +1000,7 @@
 94.video-ak.cdn.spotify.com
 9435.adzerk.net
 95.video-ak.cdn.spotify.com
-95494..p0rt2.com
+95494.p0rt2.com
 95x.ru
 96.video-ak.cdn.spotify.com
 9660.adzerk.net
@@ -6531,9 +6531,9 @@ cdn.vipleague.se
 cdn.vntg.jp
 cdn.websvn.info
 cdn.wowtrk.com
-cdn..arch-nicto.com
-cdn..oratosaeron.com
-cdn..pip-pip-pop.com
+cdn.arch-nicto.com
+cdn.oratosaeron.com
+cdn.pip-pip-pop.com
 cdn.xdirectx.com
 cdn.xeontopa.com
 cdn.zerezas.com
@@ -10308,7 +10308,7 @@ hgqea.top
 hgtem.com
 hguidstore.xyz
 hgvkw.us
-hhbekxxw5d9e.pflexads.com/
+hhbekxxw5d9e.pflexads.com
 hhdevel.com
 hiajeheigihcdejeafb.ru
 hibhedbfbcbfgegjafa.ru
@@ -11383,7 +11383,7 @@ js.syn.affinity.com
 js.tapone.jp
 js.unitedblades.jp
 js.uvidi.com
-js..searchresultsdirect.com
+js.searchresultsdirect.com
 js2.adflare.bz
 jsad1.adsflip.com
 jsfeedget.com
@@ -13428,7 +13428,6 @@ mrush.net
 mrwong.ivwbox.de
 ms.388bet.vip
 ms.ligatus.com
-ms0\.0\.0\.001341.club
 ms69-hinet.net
 msalt.mysearch.com
 msbftyajwu.com
@@ -15011,7 +15010,7 @@ pic-foto.ru
 pick25.info
 pics.clckm.com
 pics.searchresultsdirect.com
-pics..searchresultsdirect.com
+pics.searchresultsdirect.com
 pics2share.ru
 picstunoar.com
 picszeta.com
@@ -27786,7 +27785,7 @@ x7nkj.ru
 xa.xingcloud.com
 xacersconceptin.info
 xamak10.com
-xamateurpornlic..biz
+xamateurpornlic.biz
 xanxj.com
 xap.ru
 xarxaambiental.es
