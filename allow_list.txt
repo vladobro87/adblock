@@ -218,3 +218,4 @@ ytimg.com
 music.yandex.com
 music.yandex.ru
 music.yandex.net
+kinescope.io
