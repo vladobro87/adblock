@@ -52,7 +52,7 @@ clck.yandex.ru
 click.sender.yandex.ru
 core-renderer-tiles.maps.yandex.net
 csp.yandex.net
-dr.yandex.net
+
 favicon.yandex.net
 grade.market.yandex.ru
 informer.yandex.ru
