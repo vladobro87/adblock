@@ -221,3 +221,4 @@ music.yandex.net
 kinescope.io
 storage.yandexcloud.net
 twinby-rk.storage.yandexcloud.net
+dr.yandex.net
