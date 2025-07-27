@@ -181,7 +181,7 @@ beacons.gvt2.com
 casespartner-pa.youtube.com
 cdn.jsdelivr.net
 clients4.google.com
-content-autofill.googleapis.com
+
 csp.withgoogle.com
 e2c40.gcp.gvt2.com
 e2c52.gcp.gvt2.com
@@ -200,7 +200,7 @@ jnn-pa.googleapis.com
 lh3.googleusercontent.com
 lh5.googleusercontent.com
 mail.google.com
-optimizationguide-pa.googleapis.com
+
 perf.keyyo.net
 realtimesupport.youtube.com
 redirector.googlevideo.com
