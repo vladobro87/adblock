@@ -222,3 +222,12 @@ kinescope.io
 storage.yandexcloud.net
 twinby-rk.storage.yandexcloud.net
 dr.yandex.net
+uasar.yandex.net
+avatars.mds.yandex.net
+api.acquisition-gwe.plus.yandex.net
+external-api.mediabilling.yandex.ru
+api.plus.yandex.net
+quasar.yandex.ru
+push.yandex.ru
+api.messenger.yandex.net
+quasar.yandex.net
