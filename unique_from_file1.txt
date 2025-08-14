@@ -299,10 +299,10 @@ www.adobeereg.com
 app.facebook.com
 api.facebook.com
 iphone.facebook.com
-*.channel40.facebook.com
+channel40.facebook.com
 m.facebook.com
 facebook.com
-*.channel61.facebook.com
+channel61.facebook.com
 touch.facebook.com
 blog.facebook.com
 connect.facebook.net
