@@ -77,3 +77,12 @@ yandexcounter.ru
 yandexcounter.su
 zen-test.yandex.ru
 zen.yandex.ru
+content-autofill.googleapis.com
+optimizationguide-pa.googleapis.com
+discover-pa.googleapis.com
+clientservices.googleapis.com
+play.googleapis.com
+avito.st
+clck.yandex.net
+msedge.api.cdp.microsoft.com
+downloads.topazlabs.com
