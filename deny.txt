@@ -50,7 +50,6 @@ bs-meta.yandex.ru
 bs.yandex.ru
 clck.yandex.ru
 click.sender.yandex.ru
-core-renderer-tiles.maps.yandex.net
 csp.yandex.net
 
 favicon.yandex.net
