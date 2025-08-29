@@ -346,7 +346,7 @@ disc101-prod.do.dsp.mp.microsoft.com
 disc201-prod.do.dsp.mp.microsoft.com
 disc401-prod.do.dsp.mp.microsoft.com
 #displaycatalog.mp.microsoft.com
-dl.delivery.mp.microsoft.com
+#dl.delivery.mp.microsoft.com
 dmd.metaservices.microsoft.com
 dns.msftncsi.com
 download.comodo.com
