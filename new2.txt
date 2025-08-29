@@ -398,7 +398,6 @@ licensing.mp.microsoft.com
 login.live.com.nsatc.net
 ls2web.redmond.corp.microsoft.com
 mediaredirect.microsoft.com
-microsoft.com
 microsoft.com-c-2.edgekey.net
 microsoft.com-c-2.edgekey.net.globalredir.akadns.net
 msads.net
@@ -468,7 +467,6 @@ wdcpalt.microsoft.akadns.net
 wdcpalt.microsoft.com
 win10-trt.msedge.net
 wscont.apps.microsoft.com
-www.microsoft.com
 www.msedge.net
 www.msftconnecttest.com
 www.msftncsi.com
