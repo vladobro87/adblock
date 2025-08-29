@@ -370,7 +370,7 @@ feedback.microsoft-hohm.com
 feedback.search.microsoft.com
 feedback.windows.com
 fpdownload.macromedia.com
-№fs.microsoft.com
+#fs.microsoft.com
 genuine.microsoft.com
 geo-prod.do.dsp.mp.microsoft.com
 geover-prod.do.dsp.mp.microsoft.com
@@ -394,7 +394,7 @@ javadl-esd-secure.oracle.com.edgekey.net
 kv101-prod.do.dsp.mp.microsoft.com
 kv201-prod.do.dsp.mp.microsoft.com
 kv401-prod.do.dsp.mp.microsoft.com
-licensing.mp.microsoft.com
+#licensing.mp.microsoft.com
 login.live.com.nsatc.net
 ls2web.redmond.corp.microsoft.com
 mediaredirect.microsoft.com
