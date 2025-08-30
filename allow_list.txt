@@ -252,3 +252,15 @@ rpc.alice.yandex.ru
 api.hh.ru
 startup.mobile.yandex.net
 ksn.kaspersky-labs.com
+mobile.yandexadexchange.net
+disk.yandex.ru
+alice.yandex.net
+music.yandex.net
+mail.yandex.ru
+push.yandex.ru
+cloud-api.yandex.ru
+dl.delivery.mp.microsoft.com
+api.smoot.apple.com
+iadsdk.apple.com
+xp.apple.com
+l.instagram.com
