@@ -93,7 +93,7 @@ bs.yandex.ru
 clck.yandex.ru
 click.sender.yandex.ru
 csp.yandex.net
-scbh.yandex.net
+
 favicon.yandex.net
 grade.market.yandex.ru
 informer.yandex.ru
