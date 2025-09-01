@@ -129,3 +129,4 @@ msedge.api.cdp.microsoft.com
 downloads.topazlabs.com
 crystalidea.com
 auslogics.com
+downloads.auslogics.com
