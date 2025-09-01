@@ -90,7 +90,7 @@ www.securitylab.ru
 
 uniproxy.alice.yandex.net
 tools.messenger.yandex.net
-scbh.yandex.net
+
 iot.quasar.yandex.ru
 api.messenger.yandex.net
 media.ixbt.site
