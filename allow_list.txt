@@ -248,3 +248,8 @@ ib.isappcloud.com
 plus.yandex.net
 s.rbk.ru
 scbh.yandex.net
+yastatic.net
+connectivitycheck.gstatic.com
+update.googleapis.com
+mc.yandex.ru
+api.messenger.yandex.net	
