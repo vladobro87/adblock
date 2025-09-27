@@ -252,4 +252,16 @@ yastatic.net
 connectivitycheck.gstatic.com
 update.googleapis.com
 mc.yandex.ru
-api.messenger.yandex.net	
+cdn.sutochno.ru
+api-maps.yandex.ru
+log.strm.yandex.ru
+avatars.mds.yandex.net
+rpc.alice.yandex.net
+csp.yandex.net
+core-renderer-tiles.maps.yandex.net
+mc.yandex.md
+www.ucoz.ru
+uztracker.net
+kvnews.ru
+pornolab.net
+www.bybit.com
