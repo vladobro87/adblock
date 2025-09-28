@@ -81,7 +81,6 @@ ok.ru
 cackle.me
 yandex.ru
 static.avito.ru
-avito.st
 adfox.yandex.ru
 adsdk.yandex.ru
 advertising.yandex.ru
@@ -108,7 +107,6 @@ mx.yandex.ru
 n.yandex.ru
 redirect.appmetrica.yandex.ru
 share.yandex.ru
-strm.yandex.net
 www.an.yandex.ru
 www.click.sender.yandex.ru
 yabs.yandex.ru
@@ -119,11 +117,9 @@ yandexcounter.su
 zen-test.yandex.ru
 zen.yandex.ru
 content-autofill.googleapis.com
-optimizationguide-pa.googleapis.com
 discover-pa.googleapis.com
 clientservices.googleapis.com
 play.googleapis.com
-avito.st
 clck.yandex.net
 msedge.api.cdp.microsoft.com
 downloads.topazlabs.com
