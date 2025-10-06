@@ -100,7 +100,7 @@ maps.yandex.com
 maps.yandex.net
 favicon.yandex.net
 ms.dzen.ru
-api.music.yandex.net
+music.yandex.net
 mediabilling.yandex.ru
 vh.yandex.ru
 ott.kinopoisk.ru
