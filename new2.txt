@@ -136,7 +136,6 @@ ams.adobe.com
 ans.oobesaas.adobe.com
 ans.oobesas.adobe.com
 api-cna01.adobe-services.com
-api.account.adobe.com
 api.adobe.io
 api.appcues.net
 api.behance.net
@@ -208,7 +207,6 @@ checkout.stripe.com
 client.messaging.adobe.com
 color.adobe.com
 comments.adobe.io
-community.adobe.com
 connect.ffc.adobeoobe.com
 creative.adobe.com
 creativecloud.adobe.com
