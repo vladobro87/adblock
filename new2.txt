@@ -256,7 +256,6 @@ frameio-assets-production.s3-accelerate.amazonaws.com
 frameio-assets.s3.amazonaws.com
 geo.adobe.com
 hbrt.adobe.com
-helpx.adobe.com
 ids-proxy.account.adobe.com
 illustrator.adobe.com
 image.adobe.io
