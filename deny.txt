@@ -97,7 +97,6 @@ mqtt-mini.facebook.com
 portal.mail.ru
 ok.ru
 cackle.me
-yandex.ru
 static.avito.ru
 adfox.yandex.ru
 adsdk.yandex.ru
@@ -147,4 +146,3 @@ downloads.auslogics.com
 start.oo-software.com
 oo-software.com
 www.oo-software.com
-
