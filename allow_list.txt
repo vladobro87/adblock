@@ -273,3 +273,16 @@ edgedl.me.gvt1.com
 ims-prod06.adobelogin.com
 opentor.org
 tracker2.itzmx.com
+push.yandex.ru
+cloud-api.yandex.ru
+real-time-poi.maps.yandex.ru
+surveys.yandex.ru
+core-renderer-tiles.maps.yandex.ru
+api.passport.yandex.ru
+avatars.mds.yandex.net
+mobile-maps-common.s3.yandex.net
+frontend.vh.yandex.ru
+maps.yastatic.net
+passport.yandex.ru
+surveys.yandex.com
+real-time-poi.maps.yandex.com
