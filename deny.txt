@@ -111,7 +111,6 @@ bs.yandex.ru
 clck.yandex.ru
 click.sender.yandex.ru
 csp.yandex.net
-
 favicon.yandex.net
 grade.market.yandex.ru
 informer.yandex.ru
@@ -136,7 +135,6 @@ zen.yandex.ru
 content-autofill.googleapis.com
 discover-pa.googleapis.com
 clientservices.googleapis.com
-play.googleapis.com
 clck.yandex.net
 msedge.api.cdp.microsoft.com
 downloads.topazlabs.com
