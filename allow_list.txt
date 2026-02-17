@@ -49,7 +49,6 @@ oplata.info
 turbobit.net
 www.notion.com
 tapochek.net
-graph.facebook.com
 mqtt-mini.facebook.com
 global.geo.synology.com
 fonts.gstatic.com
