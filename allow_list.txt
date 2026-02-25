@@ -282,3 +282,10 @@ maps.yastatic.net
 passport.yandex.ru
 surveys.yandex.com
 real-time-poi.maps.yandex.com
+photos.adobe.io
+s.youtube.com
+static.rustore.ru
+backapi.rustore.ru
+redirector.googlevideo.com
+vk.com
+soft.export.yandex.ru
