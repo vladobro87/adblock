@@ -143,3 +143,12 @@ downloads.auslogics.com
 start.oo-software.com
 oo-software.com
 www.oo-software.com
+avast.com	
+pipopay.com	
+ibytedtos.com	
+capcut.com	
+capcutapi.com	
+capcutcdn-us.com	
+autodesk.com	
+autocad.com	
+office.com
