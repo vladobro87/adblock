@@ -289,3 +289,4 @@ backapi.rustore.ru
 redirector.googlevideo.com
 vk.com
 soft.export.yandex.ru
+msedge.api.cdp.microsoft.com
