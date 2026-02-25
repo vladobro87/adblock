@@ -290,3 +290,10 @@ redirector.googlevideo.com
 vk.com
 soft.export.yandex.ru
 msedge.api.cdp.microsoft.com
+googleusercontent.com
+dropbox.com
+alicdn.com
+synology.com
+synologydownload.com
+synologyupdate.com
+rucast.net
