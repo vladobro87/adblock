@@ -130,7 +130,6 @@ yandexcounter.ru
 yandexcounter.su
 zen-test.yandex.ru
 zen.yandex.ru
-content-autofill.googleapis.com
 clientservices.googleapis.com
 clck.yandex.net
 msedge.api.cdp.microsoft.com
