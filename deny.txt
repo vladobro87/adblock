@@ -69,7 +69,6 @@ api-ls.services.dxo.com
 activation.dxo.com
 api.mixpanel.com
 cu.dzen.ru
-optimizationguide-pa.googleapis.com
 spot-pa.googleapis.com
 mtalk.google.com
 click-or-die.fra1.digitaloceanspaces.com
