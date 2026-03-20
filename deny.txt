@@ -84,7 +84,7 @@ ya.cc
 strm.yandex.net
 edge-mqtt.facebook.com
 direct.yandex.ru
-gb.tv.global.mi.com
+#gb.tv.global.mi.com
 adservice.google.com
 mail.ru
 app-measurement.com
