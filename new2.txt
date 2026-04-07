@@ -476,7 +476,6 @@ cc-api-storageadobe.io
 ftcdn.net
 astockcdn.net
 s3amazonaws.com
-www.facebook.com
 oz-prod-masters.s3.us-west-2.amazonaws.com
 oz-prod-proxies.s3.us-west-2.amazonaws.com
 oz-prod-proxies-video-1080p.s3.us-west-2.amazonaws.com
