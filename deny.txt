@@ -88,7 +88,6 @@ adservice.google.com
 mail.ru
 app-measurement.com
 vortex.data.microsoft.com
-api.samsungcloud.com
 an.yandex.ru
 mqtt-mini.facebook.com
 portal.mail.ru
