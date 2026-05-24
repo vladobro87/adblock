@@ -703,7 +703,6 @@ storage.live.com
 #store-images.microsoft.com
 storesdk.dsx.mp.microsoft.com
 studytree2.blob.core.windows.net
-substrate.office.com
 t-ring.msedge.net
 t.urs.microsoft.com
 teams.events.data.microsoft.com
