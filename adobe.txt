@@ -80,7 +80,6 @@ aoorovjtha.adobe.io
 edgeproxy-irl1.cloud.adobe.io
 pv2bqhsp36w.prod.cloud.adobe.io
 pv24v41zibm.prod.cloud.adobe.io
-cc-api-data.adobe.io 
 hbc.adobe.io
 ogktn7dh1u.adobe.io
 n79nf80l3n.adobe.io
@@ -293,4 +292,3 @@ stls.adobe.com-cn.edgesuite.net.globalredir.akadns.net
 use-stls.adobe.com.edgesuite.net
 a1815.dscr.akamai.net
 prod.adobegenuine.com
-www.adobeereg.com 
