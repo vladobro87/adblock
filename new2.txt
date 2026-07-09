@@ -531,7 +531,6 @@ www.evidon.com
 www.betrad.com
 uservoice.com
 thawte.com
-api.mapbox.com
 adobe-oobe-prod-data-store-ue1.s3.amazonaws.com
 encoded-videos-0.s3.amazonaws.com
 fotolia-prod-3dobjects.s3.amazonaws.com
