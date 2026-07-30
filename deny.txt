@@ -47,7 +47,6 @@ lumion3d.net
 lumiontech.net
 s3.wi-fi.ru
 tracker.dler.org
-strm.yandex.ru
 hawk.so
 4kdownload.com
 dl.4kdownload.com
@@ -80,7 +79,6 @@ disqus.com
 disquscdn.com
 kik.cat
 ya.cc
-strm.yandex.net
 edge-mqtt.facebook.com
 direct.yandex.ru
 #gb.tv.global.mi.com
