@@ -171,10 +171,6 @@ youtu.be
 accounts.google.com
 accounts.google.ru
 accounts.youtube.com
-beacons2.gvt2.com
-beacons4.gvt2.com
-beacons.gcp.gvt2.com
-beacons.gvt2.com
 casespartner-pa.youtube.com
 cdn.jsdelivr.net
 clients4.google.com
