@@ -160,7 +160,6 @@ api.plus.yandex.ru
 external-api.mediabilling.yandex.ru
 api.acquisition-gwe.plus.yandex.ru
 payment-widget.plus.yandex.ru
-j.sni.global.fastly.net
 a4475.q.akamai.net
 dl.4kdownload.com
 installed-components.autodesk
