@@ -89,7 +89,6 @@ vortex.data.microsoft.com
 an.yandex.ru
 mqtt-mini.facebook.com
 portal.mail.ru
-ok.ru
 cackle.me
 adfox.yandex.ru
 adsdk.yandex.ru
